@@ -1,0 +1,7 @@
+
+<!--Scott Wright - S1707509-->
+<!--swrigh211@caledonian.ac.uk-->
+<resources>
+    <string name="app_name">S1707509 EarthQuakeApp</string>
+    <string name="title_fragment_earth_quake_maps">EarthQuakeMap</string>
+</resources>
